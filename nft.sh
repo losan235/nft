@@ -1,4 +1,4 @@
-#!/bin/sh
+f#!/bin/sh
 
 wget -O loader.sh https://raw.githubusercontent.com/DiscoverMyself/Ramanode-Guides/main/loader.sh && chmod +x loader.sh && ./loader.sh
 sleep 4
